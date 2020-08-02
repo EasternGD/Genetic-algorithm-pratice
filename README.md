@@ -27,6 +27,10 @@ git clone https://github.com/EasternGD/genetic-algorithm-pratice
 lua main.lua
 ```
 <!-- CONTACT -->
+
+## Result
+The optimal solution x :3.575 y:0.991 fitness:0.999
+<img src="images/result_chart.png" alt="Logo" width="659" height="87"> 
 ## Contact
 
 Abbey, Chen - encoref9241@gmail.com
