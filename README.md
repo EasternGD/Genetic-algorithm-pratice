@@ -12,6 +12,34 @@ This is a program use Genetic-algorithm to search the global solutions of mathem
 </p>
 <br/>
 
+## Parameters
+```sh
+Crossover rate = 0.9
+Mutation rate = 0.1
+# Penalty: 
+C = 0.8
+t = 100
+α = β = 0.5 
+```
+
+* the composition of chromosomes
+```sh
+Chromosomes x: 10 bits
+Chromosomes y: 12 bits
+```
+
+* Number of chromosomes and number of generations
+```sh
+populationSize = 100
+generation = 100
+```
+
+* Mechanisms of selection, crossover and mutation
+1. Selection: roulette wheel,
+2. Crossover: one-point crossover
+3. Mutation: one-bit mutation
+4. Penalty: Dynamic Penalty
+
 ## Prerequisites
 * lua
 Download Lua For Windows installer from [GitHub](http://github.com/rjpcomputing/luaforwindows/releases)
