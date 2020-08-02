@@ -8,6 +8,6 @@ This is a program use Genetic-algorithm to search the global solutions of mathem
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-<img src="images/formula.png" alt="Logo" width="672" height="82"> 
+<img src="images/formula.png" alt="Logo" width="1321" height="283"> 
 </p>
 <br/>
