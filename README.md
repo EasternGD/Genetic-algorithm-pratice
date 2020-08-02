@@ -29,8 +29,13 @@ lua main.lua
 <!-- CONTACT -->
 
 ## Result
-The optimal solution x :3.575 y:0.991 fitness:0.999
-<img src="images/result_chart.png" alt="Logo" width="659" height="87"> 
+The optimal solution x: 3.575 y: 0.991 fitness: 0.999
+<br />
+<p align="center">
+<img src="images/result_chart.png"> 
+</p>
+<br/>
+
 ## Contact
 
 Abbey, Chen - encoref9241@gmail.com
