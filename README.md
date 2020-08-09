@@ -54,7 +54,6 @@ git clone https://github.com/EasternGD/genetic-algorithm-pratice
 ```sh
 lua main.lua
 ```
-<!-- CONTACT -->
 
 ## Result
 The optimal solution x: 3.575 y: 0.991 fitness: 0.999
