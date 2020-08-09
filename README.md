@@ -1,4 +1,4 @@
-# genetic-algorithm-pratice
+# Genetic-algorithm-pratice
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
