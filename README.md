@@ -67,4 +67,4 @@ The optimal solution x: 3.575 y: 0.991 fitness: 0.999
 
 Abbey, Chen - encoref9241@gmail.com
 
-Project Link: [genetic-algorithm-pratice](https://github.com/EasternGD/genetic-algorithm-pratice)
+Project Link: [Genetic-algorithm-pratice](https://github.com/EasternGD/genetic-algorithm-pratice)
